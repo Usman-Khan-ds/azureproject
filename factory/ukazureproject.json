@@ -1,0 +1,15 @@
+{
+	"name": "ukazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b71c03f-2e5f-4172-89e9-6b10efc5359a",
+		"tenantId": "f148400b-88b4-4f9c-973b-6cfc48a124b9"
+	}
+}
